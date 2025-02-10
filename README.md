@@ -17,9 +17,9 @@
 - **Objective:** Track customer service metrics such as **customer satisfaction, agent performance, resolution rates, and response times**.  
 - **Impact:** Improved operational efficiency and customer support.  
 - **Preview:**  
-  ![Call Center Dashboard](screenshots/call-center.png)
+  ![Call Center Dashboard]https://github.com/juhi-shahi/PwC-PowerBI-Dashboards/blob/main/CALL%20CENTER%20TRENDS%20DASHBOARD.jpg
 
-🔗 **[View Report](Call-Center-Trends-Analysis/call-center-report.pdf)**  
+
 
 ---
 
