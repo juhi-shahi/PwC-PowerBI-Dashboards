@@ -27,9 +27,7 @@
 - **Objective:** Identify factors affecting **customer churn** using Power BI.  
 - **Impact:** Improved retention rates through **data-driven decision-making**.  
 - **Preview:**  
-  ![Customer Retention Dashboard](screenshots/customer-retention.png)
-
-🔗 **[View Report](Customer-Retention-Insights/churn-analysis-report.pdf)**  
+  ![Customer Retention Dashboard]https://github.com/juhi-shahi/PwC-PowerBI-Dashboards/blob/main/CUSTOMER%20RETENTION%20DASHBOARD.jpg
 
 ---
 
@@ -37,9 +35,7 @@
 - **Objective:** Analyze **workforce diversity metrics** to support **inclusive policies**.  
 - **Impact:** Strengthened HR strategies and improved workplace equity.  
 - **Preview:**  
-  ![Diversity Dashboard](screenshots/diversity.png)
-
-🔗 **[View Report](Diversity-Inclusion-Analysis/diversity-report.pdf)**  
+  ![Diversity Dashboard]https://github.com/juhi-shahi/PwC-PowerBI-Dashboards/blob/main/DIVERSITY%20%26%20INCLUSION%20DASHBOARD.jpg
 
 ---
 
