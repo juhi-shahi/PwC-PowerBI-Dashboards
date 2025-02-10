@@ -54,7 +54,7 @@
 ---
 
 ## 📬 Let's Connect!  
-💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)  
+💼 **LinkedIn:** [Your Profile]https://www.linkedin.com/in/juhi-shahi-830719220/  
 📧 **Email:** [juhishahi321@gmail.com](mailto:juhishahi321@gmail.com)  
 
 ✨ _Feel free to fork this repo, give a ⭐, or reach out if you have any questions!_ 🚀
